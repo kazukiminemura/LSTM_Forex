@@ -1,7 +1,7 @@
 # LSTM_Forex
 
 LSTM model train and inference code
-
+![alt original](https://github.com/kazukiminemura/LSTM_Forex/blob/master/DYdtJi3V4AAuaaR.jpg)
 
 
 ## Getting started
